@@ -14,5 +14,7 @@ body {
   border-radius: 100%;
   justify: center;
   padding: 5em 2em; }
+  #boxInside span {
+    font-weight: bold; }
 
 /*# sourceMappingURL=ppal.css.map */
